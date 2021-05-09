@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    /*font-family: "Antic Didone";*/
+    color: rgb(11, 16, 78);
+  }
+   
+  header.jumbotron {
+    margin: 0;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+  }
+
+  footer.jumbotron {
+    margin: 0;
+    padding: 20px;
+  }
+
+ #dropzoneProducts {
+    border: 10px solid rgb(179, 189, 51);
+    margin: 5px;
+    font-size: 12px;
+  }
+
+  #dropzoneCart {
+    border: 10px solid rgb(179, 189, 51);
+    margin: 5px;
+    font-size: 12px;
+  }
+
